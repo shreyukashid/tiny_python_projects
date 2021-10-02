@@ -1,0 +1,1 @@
+This python function filters out email from a block of text and displays it.
